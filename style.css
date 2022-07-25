@@ -1,0 +1,41 @@
+body   {
+    padding: 20px ;
+    color: rgb(0, 0, 0) ;
+}
+
+.Red  {
+    background-color: white;
+    padding: 20px;
+   }
+
+.Orange {
+   background-color: white ; 
+   padding: 20px;
+   }
+
+.Yellow {
+    background-color: white;
+    padding: 20px;
+}
+
+.Green {
+    background-color: white;
+    padding: 20px;
+}
+
+.Blue {
+
+    background-color: white;
+    padding: 20px;
+}
+
+.Purple{
+    background-color: white;
+    padding: 20px;
+
+}
+
+.Lavender{
+    background-color:  white;
+    padding: 20px;
+}
